@@ -1,1 +1,1 @@
-[java-links] (https://github.com/Vedenin/useful-java-link)
+[java-links](https://github.com/Vedenin/useful-java-link)
