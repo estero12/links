@@ -6,3 +6,4 @@
 - [zapret](https://github.com/bol-van/zapret/tree/master)
 - [zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube/tree/main)
 - [wg-socks-proxy](https://github.com/dennislapchenko/wg-socks-proxy)
+- [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
