@@ -7,3 +7,7 @@
 - [zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube/tree/main)
 - [wg-socks-proxy](https://github.com/dennislapchenko/wg-socks-proxy)
 - [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
+
+# Ссылки на аналоги дискорда
+
+-[revoltchat](https://github.com/revoltchat/self-hosted)
