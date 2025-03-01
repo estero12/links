@@ -13,3 +13,4 @@
 - [revoltchat](https://github.com/revoltchat/self-hosted) нет видеосвязи
 - [galene](https://galene.org/)
 - [mirotalksfu](https://github.com/miroslavpejic85/mirotalksfu) - от того же владельца есть другие вариации 
+- [matrix](https://matrix.org/)
