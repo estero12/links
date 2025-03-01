@@ -10,4 +10,4 @@
 
 # Ссылки на аналоги дискорда
 
-- [revoltchat](https://github.com/revoltchat/self-hosted)
+- [revoltchat](https://github.com/revoltchat/self-hosted) нет видеосвязи
