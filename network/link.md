@@ -11,3 +11,4 @@
 # Ссылки на аналоги дискорда
 
 - [revoltchat](https://github.com/revoltchat/self-hosted) нет видеосвязи
+- [galene](https://galene.org/)
