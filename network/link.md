@@ -7,6 +7,7 @@
 - [zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube/tree/main)
 - [wg-socks-proxy](https://github.com/dennislapchenko/wg-socks-proxy)
 - [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
+- [Wiresock](https://wiresock.net/wiresock-secure-connect/download)
 
 # Ссылки на аналоги дискорда
 
