@@ -8,6 +8,7 @@
 - [wg-socks-proxy](https://github.com/dennislapchenko/wg-socks-proxy)
 - [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
 - [Wiresock](https://wiresock.net/wiresock-secure-connect/download)
+- [Wiresock-repository](https://github.com/wiresock)
 
 # Ссылки на аналоги дискорда
 
