@@ -9,3 +9,6 @@
 
 # Ссылки на геймдев репозитории
 - [gamedev](https://github.com/jMonkeyEngine/jmonkeyengine)
+
+# Ссылки на образовательные ресурсы
+- [projs](https://github.com/practical-tutorials/project-based-learning)
