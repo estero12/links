@@ -6,3 +6,6 @@
 ## Reddit обсуждения
 
 - [sites-for-practice-test-automation](https://www.reddit.com/r/QualityAssurance/comments/z2jmf0/dummy_site_to_practice_automation/)
+
+# Ссылки на образовательные ресурсы
+- [projs](https://github.com/practical-tutorials/project-based-learning)
