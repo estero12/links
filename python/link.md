@@ -2,6 +2,7 @@
 
 - [python-test-automation](https://github.com/atinfo/awesome-test-automation/blob/master/python-test-automation.md)
 - [sites-for-practice-test-automation](https://automationpanda.com/2021/12/29/want-to-practice-test-automation-try-these-demo-sites/)
+- [TA practice sites](https://github.com/BMayhew/awesome-sites-to-test-on#web-testing)
 
 ## Reddit обсуждения
 
